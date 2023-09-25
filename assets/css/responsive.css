@@ -1,0 +1,120 @@
+@media (min-width: 64em) and (min-width: 46.25em) {
+   
+    #header .search-btn{
+        display: block;
+    }
+}
+@media (max-width:63.9375em ) {
+    .btn {
+        padding: 15px 16px;
+    }
+    .contact-form .form-control{
+       padding: 15px;
+       font-size: 16px;
+    }
+    .socials {
+        font-size: 48px;
+    }
+    #footer .socials a {
+        margin: 0 8px;
+    }
+    #footer .copy-right a {
+        padding: 12px 0;
+        display: inline-block;
+    }
+    
+
+}
+@media (max-width: 63.9375em) and (min-width: 46.25em) {
+    #slider .text-content {
+        bottom: 250px;
+    }
+    .contact-info {
+        line-height: 2;
+    }
+    .contact-submit-btn {
+        font-size: 16px;
+    }
+}
+@media (max-width: 46.1875em)
+{
+    .s-full-width {
+        width: 100%;
+    }
+    .s-col-full {
+        width: 100%;
+    }
+    .s-mt-8 {
+        margin-top: 8px;
+    }
+    #nav {
+        display: block;
+    } 
+    #nav > li {
+        display: block;
+    }
+    #nav > li:first-child {
+        display: inline-block;
+    }
+    #nav .subnav {
+        
+       background: #333;
+    }
+    #nav .subnav a {
+        color: #fff;
+        padding: 5px 52px;
+
+    }
+     #nav li:hover .subnav {
+        position: initial;
+    } 
+    #nav .subnav li {
+        display: block; 
+       }
+        
+
+        
+    #nav li a {
+        padding: 1px 24px;
+    }
+    #header {
+        overflow: hidden;
+    }
+
+    #header .mobile-menu-btn {
+        display: block;
+    }
+    
+    #header .search-btn {
+            display: none;
+    }
+    
+     #content .member-img {
+        width: 60%;
+        
+     }
+    #content .member-item {
+    width: 100%;
+    margin-top: 30px;
+   }
+   .contact-form {
+    margin-top: 32px;
+   }
+   .contact-info {
+    line-height: 1.9;
+}
+    #slider .text-content {
+    bottom: 85px;
+   }
+   #slider .text-heading{
+    font-size: 25px;
+    
+        }
+    #slider .text-description{
+        font-size: 20px;
+        margin-bottom: 12px;
+        text-shadow: 0 0 1px #fff;
+    }  
+}
+  
+    
